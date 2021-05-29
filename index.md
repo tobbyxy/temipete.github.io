@@ -15,7 +15,7 @@ My research spans using statistics and machine learning to understand biological
 
 I program fairly well in R and Python. I am getting familiar with Java, to improve my skill set. 
 
-Here is my [cv](../docs/cv.pdf) and a list of my publications. 
+Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of my publications. 
 
 ### *contact*
 
