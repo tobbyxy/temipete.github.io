@@ -13,8 +13,6 @@ My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and S
 
 My research spans using statistics and machine learning to understand biological and genetic data. In coming years, I will be proficient at doing this, and it will be the basis of my career. 
 
-I program fairly well in R and Python. I am getting familiar with Java, to improve my skill set. 
-
 Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of my publications. 
 
 ### *contact*
