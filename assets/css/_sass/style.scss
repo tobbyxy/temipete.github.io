@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   line-height: $base-line-height;
   /*font-size: $base-font-size;*/
-  font-size: small;
+  font-size: medium;
   color: $text-color;
   background-color: $body-bg;
   padding: 2em 1em;
@@ -44,8 +44,6 @@ a {
 
   }
 }
-
-
 
 p a {
   color: $text-color;
