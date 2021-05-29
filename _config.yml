@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Hi! My name is Temi
-description: A PhD student doing science the wrong ways # subtitle | affiliations | motto
+#title: Hi! My name is Temi
+#description: A PhD student doing science the wrong ways # subtitle | affiliations | motto
 
 baseurl: / #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
