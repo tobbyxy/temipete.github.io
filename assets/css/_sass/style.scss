@@ -21,11 +21,10 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  /* font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; */
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+  /*font-family: "Times New Roman", Times, serif;*/
   font-weight: bold;
-  /* line-height: 1.8; */
-  line-height: 0.5;
+  line-height: 1.8;
   margin: 0;
   text-transform: inherit;
 }
@@ -48,6 +47,7 @@ a {
 
 p a {
   color: $text-color;
+  font-family: "Times New Roman", Times, serif;
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
   background: -moz-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
