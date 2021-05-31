@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Contact
-category: beginning
+category: post
 tags: [statistics, genetics]
 ---
 
