@@ -4,8 +4,8 @@ html, body {
 
 body {
   max-width: $content-width;
-  /*font-family: $base-font-family;*/
-  font-family: "Times New Roman", Times, serif;
+  font-family: $base-font-family;
+  /*font-family: "Times New Roman", Times, serif;*/
   margin: 0 auto;
   line-height: $base-line-height;
   font-size: $base-font-size;
