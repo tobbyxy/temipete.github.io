@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6 {
 
 a {
   /* color: $brand-color; */
-  color: red;
+  color: $red;
   text-decoration: none;
   &:hover{
     color: $text-color;
@@ -47,7 +47,7 @@ a {
 
 p a {
   /*color: $text-color;*/
-  color: red;
+  color: $red;
   font-family: "Times New Roman", Times, serif;
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
