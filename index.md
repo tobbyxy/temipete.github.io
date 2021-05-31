@@ -20,6 +20,8 @@ Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of [publications](.
 ### *other things I am interested in*
 I play the guitar, and I am interested in Japanese and Middle-eastern/Arabic history and culture. I love Japanese Anime, Chinese Wuxia, and any kind of movie except horror. Also, I regularly do calisthenics training. 
 
+I am learning to speak Japanese at the moment. When I get tired, I'll move on to another language. 
+
 ### *contact*
 
 You can reach me by filling this [form](https://forms.gle/VopPt5H2uhPMD8oT7){:target="_blank"} or through my social media pages below. 
