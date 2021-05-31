@@ -2,6 +2,8 @@
 layout: post
 title: Covid-19 Data scrapper
 description: A script written to pull Covid-19 data directly from the JHU's Covid-19 Github repo
+category: project
+tags: [Covid-19, R]
 ---
 
 [Here](https://github.com/TemiPete/Covid19){:target="_blank"} is the repo for this fun project.
