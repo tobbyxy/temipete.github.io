@@ -8,6 +8,11 @@ Made with help from Jekyll and [Gradfolio](https://jitinnair1.github.io/gradfoli
 - [noir](https://github.com/essentialenemy/noir)
 - [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
+## Other things to get done:
+- Bring down the profile image a little. Currently looks like it is touching the horizontal bar
+- Change the colors on the link located in-body
+
+
 ## License:
 MIT License
 
