@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Covid-19 Data scrapper
+description: A script written to pull Covid-19 data directly from the JHU's Covid-19 Github repo
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
