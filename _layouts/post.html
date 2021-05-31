@@ -2,7 +2,12 @@
 layout: default
 ---
 <h2 class="post-headline">{{page.title}}</h2>
-<p class="meta"><small>{{page.date | date: '%B %d, %Y'}}</small></p>
+<p class="meta">
+  <small>
+    {{page.date | date: '%B %d, %Y'}}
+    Last updated on {{ site.time | date_to_long_string }}
+  </small>
+</p>
 <span>[
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
