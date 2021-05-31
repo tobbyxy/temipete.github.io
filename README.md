@@ -2,7 +2,7 @@
 
 Made with help from Jekyll and [Gradfolio](https://jitinnair1.github.io/gradfolio/)
 
-Tags were added with help from [this post](https://longqian.me/2017/02/09/github-jekyll-tag/){:target="_blank"}.
+Tags were added with help from [this post](https://longqian.me/2017/02/09/github-jekyll-tag/)
 
 ## Inspired by:
 - [hagura](https://github.com/sharu725/hagura)
