@@ -10,13 +10,6 @@ $on-phone:         450px;
 $on-palm:          660px;
 $on-laptop:        1000px;
 
-//$base-font-family: 'EB Garamond', serif;
-$base-font-family: 'Verdana';
-$base-font-size:   1.1em;
-$small-font-size:  0.875em;
-$vsmall-font-size: 0.66em;
-$base-line-height: 1.5;
-$spacing-unit:     1.5em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
