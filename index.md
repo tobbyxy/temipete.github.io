@@ -19,4 +19,4 @@ Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of [publications](.
 
 ### *contact*
 
-You can reach me by filling this form or through my social media pages below. 
+You can reach me by filling this [form](https://forms.gle/VopPt5H2uhPMD8oT7){:target="_blank"} or through my social media pages below. 
