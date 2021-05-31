@@ -1,14 +1,22 @@
-$base-font-family: 'Work Sans', sans-serif;
-$base-font-size:   20px;
-$base-font-weight: 400;
+$base-font-family: 'Verdana', 'Work Sans', sans-serif;
+$base-font-size:   15px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.5;
 
 $spacing-unit:     30px;
 $light-gray: gray;
 $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color:      #60c17d;
+
+/*//$base-font-family: 'EB Garamond', serif;
+$base-font-family: 'Verdana';
+$base-font-size:   1.1em;
+$small-font-size:  0.875em;
+$vsmall-font-size: 0.66em;
+$base-line-height: 1.5;
+$spacing-unit:     1.5em;*/
 
 // Color scheme for light
 $body-bg: #fdfdfd;
