@@ -6,6 +6,7 @@ layout: default
   thoughts
 </h2>
 
+<!--
 <div>
 	{% for post in site.posts %}
 	{% unless post.next %}
@@ -20,6 +21,22 @@ layout: default
 	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
 	{% endfor %}
 </div>
+-->
+
+
+<ul class="listing">
+{% for post in site.posts %}
+	{% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+	{% if year != y %}
+		{% assign year = y %}
+		<li class="listing-seperator">{{ y }}</li>
+	{% endif %}
+  <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
 
 <!-- pagination 
 {% if paginator.total_pages > 1 %}
