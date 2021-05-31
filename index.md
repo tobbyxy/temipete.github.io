@@ -18,9 +18,11 @@ My research spans using statistics and machine learning to understand biological
 Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of [publications](../publications) with my name on them.
 
 ### *other things I am interested in*
-I play the guitar, and I am interested in Japanese and Middle-eastern/Arabic history and culture. I love Japanese Anime, Chinese Wuxia, and any kind of movie except horror. Also, I regularly do calisthenics training. 
+I play the guitar, and I am interested in Japanese and Middle-eastern/Arabic history and culture. I love Japanese Anime, Chinese Wuxia, and any kind of movie except horror. Also, I regularly do calisthenics training. I haven't broken a bone yet but I can feel it coming. 
 
-I am learning to speak Japanese at the moment. When I get tired, I'll move on to another language. 
+I am learning to speak Japanese at the moment. When I get tired, I'll move on to learning another language. 
+
+You might have noticed. Yet, I will remind you. There is a bit of comedy in the way I talk \[read: write\]. I love humor and I think laughter helps us temporarily cope with the many problems in this world. A future plan is to write a book detailing the history, technicalities, and nuances of comedy. I might win a Pulitzer before I win a Nobel. 
 
 ### *contact*
 
