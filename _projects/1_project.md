@@ -15,7 +15,7 @@ So, I solved my problem in a crude manner. I found JHU's Github page where they 
 I decided to find a way to read the data directly from JHU's github page and save it in a csv file in a directory the user specifies. That is exactly what this script does. 
 
 ## Future Plans
-I have decided to work more on this fun project by adding a lot more functionality over time. 
+I have decided to add more functionality to the script over time. 
 - I want to make it run as a Shiny app. This way, anyone can pull the data of the country(-ies) they want, and visualize the data in interesting ways. 
 - Afterwards, I want to add statistical functionality to the app. This way, one can calcuate summary statistic on the data and run a few statistical tests. 
 - The success of the script is heavily dependent on JHU's Covid-19 github page. I should consider adding options in case something bad happens to that page. 
