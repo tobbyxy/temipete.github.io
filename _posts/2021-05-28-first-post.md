@@ -1,7 +1,7 @@
-------
+---
 layout: post
-title: First contact
-------
+title: First Contact
+---
 
 
 Here's me, opening the door into a cave of thoughts and musings. I hope to write constantly, developing this ability in the process. 
