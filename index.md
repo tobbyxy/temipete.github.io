@@ -15,7 +15,8 @@ My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and S
 
 My research spans using statistics and machine learning to understand biological and genetic data. In coming years, I will be proficient at doing this, and it will be the basis of my career. 
 
-Here is my [cv](../docs/cv.pdf){:target="_blank"} and a list of [publications](../publications) with my name on them.
+Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> with my name on them.
+
 
 ### *other things I am interested in*
 I play the guitar, and I am interested in Japanese and Middle-eastern/Arabic history and culture. I love Japanese Anime, Chinese Wuxia, and any kind of movie except horror. Also, I regularly do calisthenics training. I haven't broken a bone yet but I can feel it coming. 
