@@ -9,7 +9,7 @@ title: publications
 
 {% assign thumbnail="left" %}
 
-{% for pub in site.docs.publications %}
+{% for pub in site.data.publications %}
 
 {% if pub.pdf and pub.software %}
   [**{{pub.title}}**]({{pub.url}})<br/>
