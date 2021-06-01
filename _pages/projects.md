@@ -12,6 +12,8 @@ published: true
 Some of these I work(ed) on in my spare time, for fun and to improve my computing/analytical skills. 
 <br>
 Some of them will have a mirror Github repo through which you can access the scripts for the projects. 
+<br>
+Here, I explain the motivation for the project, alongside the process, mistakes, and lesson I learned. 
 
 <div class="ProjectContainer">
 
