@@ -8,7 +8,11 @@ layout: default
     <br>
      Last updated on {{ site.time | <!--date_to_long_string--> date: '%B %d, %Y' }}
     <br>
-    page.path
+    {% if page.path contains 'blog' %}
+      True
+    {% endif %}
+    
+    
   </small>
 </p>
 
