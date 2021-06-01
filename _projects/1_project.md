@@ -6,6 +6,8 @@ category: project
 tags: [Covid-19, R]
 ---
 
+`Ps: I am still writing up this page`
+
 [Here](https://github.com/TemiPete/Covid19){:target="_blank"} is the repo for this fun project.
 
 ## Sometime in June...
