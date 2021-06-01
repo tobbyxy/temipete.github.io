@@ -5,7 +5,7 @@ category: beginning
 tags: [statistics, math, genetics, biology, computation]
 ---
 
-`Ps: This post still being written.`
+`NB: This post still being written.`
 
 My research interests are subtly changing. A few years back, I did not know what computational biology was. And because I studied pharmacology, I developed interest in pharmacogenomics and precision medicine. However, the wonderful thing about the biosciences is that many fields are interwoven. Therefore, having a background in anatomy, for instance, does not stop you from pursuing graduate studies in, say, physics. Heck, this is the story of many. 
 
