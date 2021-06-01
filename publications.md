@@ -5,6 +5,7 @@ title: publications
 ---
 
 ## publications
+* denotes first or co-first authorship
 
 {% assign thumbnail="left" %}
 
