@@ -9,6 +9,10 @@ published: true
 	projects
 </h2>
 
+Some of these are projects I work(ed) on in my spare time, for fun and to improve my computing/analytical skills. 
+<br>
+Some of them will have a mirror Github repo through which you can access the scripts for the projects. 
+
 <div class="ProjectContainer">
 
 	<div class="gallery">
