@@ -5,7 +5,7 @@ category: post
 tags: [statistics, genetics]
 ---
 
-`Ps: This post is still being written.`
+`NB: This post is still being written.`
 
 
 Here's me, opening the door into a cave of thoughts and musings. I hope to write constantly, developing this ability in the process. 
