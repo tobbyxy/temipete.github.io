@@ -47,7 +47,8 @@ a {
 
 p a {
   /*color: $text-color;*/
-  color: #0000FF;
+  color: $red;
+  font-weight: normal;
   font-family: "Times New Roman", Times, serif;
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
