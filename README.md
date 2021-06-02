@@ -13,6 +13,7 @@ Tags were added with help from [this post](https://longqian.me/2017/02/09/github
 ## Other things to get done:
 - ~~Bring down the profile image a little. Currently looks like it is touching the horizontal bar~~
 - Change the colors on the link located in-body
+- Change the site icon
 
 
 ## License:
