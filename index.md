@@ -16,7 +16,11 @@ published: true
 
 My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. Currently, I am completing a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
 
-### *research*
+<h3>
+  <u><i>
+    research
+  </i></u>
+</h3>
 
 My research spans using statistics and machine learning to understand biological and genetic data. In coming years, I will be proficient at doing this, and it will be the basis of my career. 
 
@@ -32,6 +36,10 @@ You might have noticed. Yet, I will remind you. There is a bit of comedy in the 
 
 -->
 
-### *contact*
+<h3>
+  <u><i>
+    contact
+  </i></u>
+</h3>
 
 You can reach me by filling this [form](https://forms.gle/VopPt5H2uhPMD8oT7){:target="_blank"} or through my social media pages below. 
