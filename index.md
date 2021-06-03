@@ -8,7 +8,8 @@ published: true
 ---
 ## home
 
-### *about*
+### <u>*about*</u>
+
 My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. Currently, I am completing a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
 
 ### *research*
