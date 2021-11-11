@@ -14,7 +14,7 @@ published: true
   </i></u>
 </h3>
 
-My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. Currently, I am completing a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
+My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. A few months ago, I completed a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
 
 <h3>
   <u><i>
@@ -22,7 +22,7 @@ My name is Temi, and I'm an incoming PhD student in the Genetics, Genomics and S
   </i></u>
 </h3>
 
-My research spans using statistics and machine learning to understand biological and genetic data. In coming years, I will be proficient at doing this, and it will be the basis of my career. 
+My research spans using machine learning to understand genetic data to improve precision medicine. I'm currently learning statistics and genetics. In coming years, I should find a way to use all three (plus others) to answer interesting statistical genetic questions. Then, and only afer then, will I be able to graduate with a PhD. I think. 
 
 Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> with my name on them.
 
