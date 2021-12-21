@@ -22,7 +22,7 @@ My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems bio
   </i></u>
 </h3>
 
-My research spans using machine learning to understand genetic data to improve precision medicine. I'm currently learning statistics and genetics. In coming years, I should find a way to use all three (plus others) to answer interesting statistical genetic questions. Then, and only afer then, will I be able to graduate with a PhD. I think. 
+My research spans using machine learning to understand genetic data to improve precision medicine. I'm currently learning statistics and genetics. In coming years, I should find a way to use all three (plus others) to answer interesting questions in the field of pharmacogenetics. Then, and only afer then, will I be able to graduate with a PhD. I think. 
 
 Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> with my name on them.
 
