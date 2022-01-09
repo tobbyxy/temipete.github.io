@@ -22,19 +22,9 @@ My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems bio
   </i></u>
 </h3>
 
-My research spans using machine learning to understand genetic data to improve precision medicine. I'm currently learning statistics and genetics. In coming years, I should find a way to use all three (plus others) to answer interesting questions in the field of pharmacogenetics. Then, and only afer then, will I be able to graduate with a PhD. I think. 
+I am interested in using computation to understand genetic data and to improve precision medicine. So, I am actively learning/interested in many areas of statistics and genetics, and machine learning, in particular, Graph Neural Networks. In coming years, I'll get better at using all of these to answer interesting questions in the field of genetics. Then, and only after, will I be able to graduate with a PhD. I think. 
 
 Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> with my name on them.
-
-<!--
-### *other things I am interested in*
-I play the guitar, and I am interested in Japanese and Middle-eastern/Arabic history and culture. I love Japanese Anime, Chinese Wuxia, and any kind of movie except horror. Also, I regularly do calisthenics training. I haven't broken a bone yet but I can feel it coming. 
-
-I am learning to speak Japanese at the moment. When I get tired, I'll move on to learning another language. 
-
-You might have noticed. Yet, I will remind you. There is a bit of comedy in the way I talk \[read: write\]. I love humor and I think laughter helps us temporarily cope with the many problems in this world. A future plan is to write a book detailing the history, technicalities, and nuances of comedy. I might win a Pulitzer before I win a Nobel. 
-
--->
 
 <h3>
   <u><i>
