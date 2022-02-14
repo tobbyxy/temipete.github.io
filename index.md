@@ -14,7 +14,7 @@ published: true
   </i></u>
 </h3>
 
-My name is Tem, and I'm a PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. A few centuries ago, I completed a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
+My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. A few centuries ago, I completed a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
 
 <h3>
   <u><i>
