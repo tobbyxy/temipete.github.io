@@ -1,14 +1,16 @@
-- title : Predicting Drug-Induced Liver Injury Using Machine Learning on a Diverse Set of Predictors
-  journal : Frontiers in Pharmacology
-  authors : <strong>Temidayo Adeluwa</strong>*, Brett A. McGregor*, Kai Guo, Junguk Hur
+
+
+- title : "Predicting Drug-Induced Liver Injury Using Machine Learning on a Diverse Set of Predictors"
+  journal: Frontiers in Pharmacology
+  authors: <strong>Temidayo Adeluwa</strong>*, Brett A. McGregor*, Kai Guo, Junguk Hur
   url: https://www.frontiersin.org/articles/10.3389/fphar.2021.648805/full
   year: 2021
 
-- title : Machine Learning-Based Predictive Modeling of Postpartum Depression
+- title : "Machine Learning-Based Predictive Modeling of Postpartum Depression"
   journal: Journal of Clinical Medicine 
   authors:  Dayeon Shin, Kyung Ju Lee, <strong>Temidayo Adeluwa</strong>*, Junguk Hur
   url: https://www.mdpi.com/2077-0383/9/9/2899/htm 
-  year: 2020 
+  year: 2029 
   # pdf: /docs/papers/biddanda_rice_novembre_elife.2020-v1.pdf
   # software: https://aabiddanda.github.io/geovar/
 
