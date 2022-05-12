@@ -1,0 +1,21 @@
+---
+title: "teeth"
+author: "Temi"
+date: "2022-05-12"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+data("ToothGrowth")
+head(ToothGrowth)
+```
+
+```{r}
+summary(ToothGrowth)
+```
+
+
