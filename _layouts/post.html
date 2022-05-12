@@ -4,7 +4,7 @@ layout: default
 <h2 class="post-headline">{{page.title}}</h2>
 <p class="meta">
   <small>
-    Originally posted on {{page.date | date: '%B %d, %Y'}} 
+    {{page.date | date: '%B %d, %Y'}} 
     <br>
     {% if page.path contains '_posts' %}
       Last updated on {{ site.time | <!--date_to_long_string--> date: '%B %d, %Y' }}
