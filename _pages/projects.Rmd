@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+author: "Temi"
+date: '2022-05-12'
+output: html_document
+layout: default
+permalink: /projects/
+published: true
+---
+
+* [Teeth growth analysis](teeth.html)
