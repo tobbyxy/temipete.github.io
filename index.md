@@ -22,9 +22,9 @@ Hey. My name is Temi, and I'm a PhD student in the Genetics, Genomics and System
   </i></u>
 </h3>
 
-I am interested in using computation to understand genetic data and to improve precision medicine. So, I am actively learning/interested in many areas of statistics and genetics, and machine learning, in particular, Graph Neural Networks. In coming years, I'll get better at using all of these to answer interesting questions in the field of genetics. Then, and only after, will I be able to graduate with a PhD. I think. 
+I am interested in using computation to understand genetic data and to improve precision medicine. So, I am actively learning/interested in many areas of statistics and genetics, and machine learning. In coming years, I'll get better at using all of these to answer interesting questions in the field of genetics. Then, and only after, will I be able to graduate with a PhD. I think. 
 
-Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> with my name on them.
+Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> that I have contributed to.
 
 <h3>
   <u><i>
