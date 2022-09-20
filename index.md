@@ -14,15 +14,14 @@ published: true
   </i></u>
 </h3>
 
-My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. A few centuries ago, I completed a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
+My name is Temi, and I'm a PhD student in the Genetics, Genomics and Systems biology ([GGSB](https://ggsb.uchicago.edu/){:target="_blank"}) program at the University of Chicago. Prior to this, I completed a master's at the University of North Dakota, supervised by the awesome [Junguk Hur](https://med.und.edu/labs/hur/){:target="_blank"}. 
 
 <h3>
   <u><i>
     research
   </i></u>
 </h3>
-
-I am interested in using computation to understand genetic data and to improve precision medicine. So, I am actively learning/interested in many areas of statistics and genetics, and machine learning. In coming years, I'll get better at using all of these to answer interesting questions in the field of genetics. Then, and only after, will I be able to graduate with a PhD. I think. 
+In Fall 2022, I joined [Haky's lab](https://hakyimlab.org/){:target="_blank"} for my PhD thesis. Here, I will be using computation, statistics and whatever means necessary (no kidding) to understand genetic data in relation to phenotypes. Specifically, I will be studying variations in the human epigenome (at the genomic level and the population level), how these variations influence molecular-level activities (e.g. TF binding), and how these, in turn, influence complex traits and diseases. These are complex questions. Wish me luck!
 
 Here is my <a href="../docs/cv.pdf" target="_blank" rel="noopener noreferrer">cv</a> and a list of <a href="../publications" target="_blank" rel="noopener noreferrer">publications</a> that I have contributed to.
 
